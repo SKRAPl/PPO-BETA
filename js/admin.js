@@ -346,7 +346,7 @@
         <div style="display:flex; gap:8px; align-items:flex-end; flex-wrap:wrap;">
           <div style="flex:1; min-width:220px;">
             <label style="display:block; font-size:12.5px; color:var(--text-1); margin-bottom:6px;">Название (одно на карточку — остальное соберётся само)</label>
-            <input type="text" id="newEntryName" placeholder='Например: РР Гамункул'>
+            <input type="text" id="newEntryName" placeholder='Например: РР Фантом'>
           </div>
           <button class="primary" id="addEntryBtn">Добавить</button>
         </div>
