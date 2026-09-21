@@ -11,5 +11,18 @@
     },
     "createdAt": 1789359874086,
     "isMaster": true
+  },
+  {
+    "username": "Nakano",
+    "salt": "7f7ff0c27ba0c59eabb0514f5ca41040",
+    "passHash": "fa0909f292e4c9304a7a3008ef4569b9f49754e91447b4ab5575b39a44f36ad5",
+    "permissions": {
+      "isSuper": true,
+      "canManageUsers": false,
+      "canManageCategories": false,
+      "categories": {}
+    },
+    "createdAt": 1790001379167,
+    "isMaster": false
   }
 ]
